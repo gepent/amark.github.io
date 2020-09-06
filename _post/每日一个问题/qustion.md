@@ -17,8 +17,7 @@
 #### 9 redis有哪些数据结构，主要应用场景
 
 #### 10 RabbitMQ 如何保证消息不丢失？
-![avatar](http://baidu.com/pic/doge.png)
-
+![avatar](https://pic.pospre.com/pic/mq_redis.jpg)
 
 #### 11 如何判断链表有环？
 
