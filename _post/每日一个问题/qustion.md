@@ -73,3 +73,14 @@
 #### 12 redis与memcached的区别，以及各自的应用场景
 
 #### 13 非阻塞与异步的区别
+
+#### 14 反转一个链表
+
+
+```python
+def reverselist(head):
+    cur, prev = head, None
+    while cur:
+        cur.next, prev, cur = prev, cur, cur.next
+    return prev
+```
