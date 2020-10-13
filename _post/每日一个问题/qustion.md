@@ -84,3 +84,4 @@ def reverselist(head):
         cur.next, prev, cur = prev, cur, cur.next
     return prev
 ```
+#### 15 IP 规则
